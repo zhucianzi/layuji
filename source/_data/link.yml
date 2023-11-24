@@ -1,0 +1,13 @@
+- class_name: 友情链接
+  class_desc: 次元传送门
+  link_list:
+  - name: 微光茶馆
+    link: https://bikariarchive.xyz
+    avatar: https://bikariarchive.xyz/public/image/misaki.webp
+    descr: 山吹色御守发布个人小说的网站，第三卷御守和沙希贴起来很轻很软。
+  
+  - name: ES起始页
+    link: https://www.esplus.club/
+    avatar: https://www.esplus.club/assets/img/logo.png
+    descr: ES跟宝可梦和mc没多大关系的网站，首页看起来特别清心寡欲。
+

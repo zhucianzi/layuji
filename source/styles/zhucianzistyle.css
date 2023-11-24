@@ -1,0 +1,16 @@
+#article-container .gallery-group-main {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+#article-container figure.gallery-group {
+    width: auto;
+    height: 165px;
+    
+}
+
+@media screen and (max-width: 600px) {
+    #article-container .gallery-group-main {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

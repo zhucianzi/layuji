@@ -34,4 +34,8 @@ date: 2023-08-02 16:33:19
 ![](/images/oc/我家CP相处模式问卷.png)
 ![](/images/oc/随手堆堆袜裸足澪希.png)
 ![](/images/oc/l2d澪希初稿.jpg)
+![](/images/oc/l2d澪希二期.jpg)
+![](/images/oc/l2d澪希黑色阴暗文静版二期初稿.jpg)
+![](/images/oc/l2d澪希终稿.jpg)
+![](/images/oc/神诗礼服服设.png)
 {% endgallery %}

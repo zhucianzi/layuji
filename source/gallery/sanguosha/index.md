@@ -9,6 +9,7 @@ date: 2023-08-02 18:33:19
 ## <i class="fa-regular fa-lightbulb"></i> 汐芊体系
 <div class="gallery-group-main">
 {% galleryGroup '汐芊稽包' '和汐合作的第一弹作品' '/gallery/sanguosha/汐芊稽包' '/images/三国杀设计/汐芊稽包设计/汐芊™.png' %}
+{% galleryGroup '汐芊体系独家美术资源' '免费使用、不需要注明来源' '/gallery/sanguosha/汐芊体系独家美术资源' '/images/三国杀设计/汐芊体系独家美术资源/蜀.png' %}
 </div>
 
 ---
@@ -34,7 +35,7 @@ date: 2023-08-02 18:33:19
 <div class="gallery-group-main">
 {% galleryGroup '八月九月' '2023年8月和9月不在什么包里但是很满意的作品' '/gallery/sanguosha/八月九月' '/images/三国杀设计/八月九月设计/竹芊子水印.png' %}
 {% galleryGroup '十月新番' '2023年10月不在什么包里但是很满意的作品，黄巾四道主也在' '/gallery/sanguosha/十月新番' '/images/三国杀设计/十月新番设计/竹芊子水印.png' %}
-{% galleryGroup '十一月新番' '2023年11月日常作品' '/gallery/sanguosha/十一月新番' '/images/三国杀设计/十一月新番设计/竹芊子水印.png' %}
+{% galleryGroup '十一、十二月新番' '2023年11月日常作品' '/gallery/sanguosha/十一、十二月新番' '/images/三国杀设计/十一、十二月新番设计/竹芊子水印.png' %}
 </div>
 
 ---
@@ -45,6 +46,7 @@ date: 2023-08-02 18:33:19
 {% galleryGroup '王业雄图' '欲识他年分鼎处，先生笑指画图中。' '/gallery/sanguosha/王业雄图' '/images/三国杀设计/王业雄图设计/王业雄图.png' %}
 {% galleryGroup '叠嶂登云' '洒落君臣契，飞腾战伐名。 ' '/gallery/sanguosha/叠嶂登云' '/images/三国杀设计/叠嶂登云设计/叠嶂登云.png' %}
 {% galleryGroup '日升中天' '三分割据纡筹策，万古云霄一羽毛。' '/gallery/sanguosha/日升中天' '/images/三国杀设计/日升中天设计/日升中天.png' %}
+{% galleryGroup '庶竭驽钝' '时来天地皆同力，运去英雄不自由。' '/gallery/sanguosha/庶竭驽钝' '/images/三国杀设计/庶竭驽钝设计/庶竭驽钝.png' %}
 </div>
 
 ---

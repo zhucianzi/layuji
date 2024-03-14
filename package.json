@@ -1,0 +1,34 @@
+{
+  "name": "layuji-valaxy",
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npm run build:ssg",
+    "build:spa": "valaxy build",
+    "build:ssg": "valaxy build --ssg",
+    "dev": "valaxy",
+    "rss": "valaxy rss",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "valaxy": "0.18.5",
+    "valaxy-addon-lightgallery": "^0.0.2",
+    "valaxy-theme-yun": "0.18.5"
+  },
+  "devDependencies": {
+    "@stylistic/eslint-plugin": "^1.6.3",
+    "@stylistic/stylelint-plugin": "^2.1.0",
+    "@typescript-eslint/parser": "^7.1.1",
+    "@zinkawaii/eslint-config": "^0.0.2",
+    "@zinkawaii/stylelint-config": "^0.0.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-vue": "^9.22.0",
+    "stylelint": "^16.2.1",
+    "stylelint-config-html": "^1.1.0",
+    "stylelint-config-standard-scss": "^13.0.0",
+    "stylelint-order": "^6.0.4",
+    "typescript": "^5.4.2",
+    "vue-eslint-parser": "^9.4.2"
+  }
+}

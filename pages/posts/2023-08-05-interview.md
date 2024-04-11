@@ -2,7 +2,6 @@
 title: 【CP问卷向】对澪希和神诗的采访
 abbrlink: 6d4b3c92
 date: 2023-08-05 17:33:23
-cover: /images/oc/小绿茶神诗弃用稿.webp
 categories:
   - 同人文
 ---

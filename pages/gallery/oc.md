@@ -74,4 +74,9 @@ photos:
   - src: /images/oc/欣喜澪希二帧表情.gif
   - src: /images/oc/着急澪希二帧表情.gif
   - src: /images/oc/哭哭澪希二帧表情.gif
+  - src: /images/oc/男娘澪希卖身.webp
+  - src: /images/oc/男娘澪希卖身-和谐版.webp
+  - src: /images/oc/男娘澪希卖身-单色版.webp
+  - src: /images/oc/像素地雷神诗.webp
+  - src: /images/oc/像素地雷神诗配框.webp
 ---

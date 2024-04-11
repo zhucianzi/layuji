@@ -66,7 +66,7 @@ photos:
   - src: /images/oc/生气神诗头像线稿.webp
   - src: /images/oc/不良酷花哨澪希草立.webp
   - src: /images/oc/不良酷花哨澪希草立（背景+修脚）.webp
-  - src: /images/oc/换衣服短漫条.webp
+  - src: /images/oc/换衣服短漫条.png
   - src: /images/oc/无语澪希二帧表情.gif
   - src: /images/oc/幸福澪希二帧表情.gif
   - src: /images/oc/闹澪希二帧表情.gif

@@ -6,7 +6,7 @@ albums:
     caption: 原创角色形象集
     cover: /images/oc/止血誓约.webp
   - url: /gallery/sanguosha/汐芊稽包
-    cover: /images/三国杀设计/汐芊稽包设计/汐芊™.webp
+    cover: /images/三国杀设计/汐芊稽包设计/汐芊标识.webp
     caption: 汐芊稽包
     desc: 和汐合作的第一弹作品
   - url: /gallery/sanguosha/汐芊体系独家美术资源
@@ -53,6 +53,10 @@ albums:
     cover: /images/三国杀设计/贺岁二月、新月三月设计/竹芊子水印.webp
     caption: 贺岁二月、新月三月
     desc: 不能停止练习
+  - url: /gallery/sanguosha/复健四月、炎热五月
+    cover: /images/三国杀设计/复健四月、炎热五月新番设计/竹芊子水印.webp
+    caption: 复健四月、炎热五月
+    desc: 原来我是可以继续创作的
   - url: /gallery/sanguosha/白帝猿啼
     cover: /images/三国杀设计/白帝猿啼设计/白帝城.webp
     caption: 白帝猿啼

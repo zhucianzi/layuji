@@ -49,9 +49,9 @@ photos:
   - src: /images/三国杀设计/ACGN设计/孔子（烧）.webp
   - src: /images/三国杀设计/ACGN设计/韩非子.webp
   - src: /images/三国杀设计/ACGN设计/斯卡蒂.webp
-  - src: /images/三国杀设计/ACGN设计斯卡蒂（特效）/.webp
+  - src: /images/三国杀设计/ACGN设计/斯卡蒂（特效）.webp
   - src: /images/三国杀设计/ACGN设计/韩非子（做旧）.webp
-  - src: /images/三国杀设计/ACGN设计孔子（斑驳）.webp
+  - src: /images/三国杀设计/ACGN设计/孔子（斑驳）.webp
   - src: /images/三国杀设计/ACGN设计/怎么，你不服气吗.webp
   - src: /images/三国杀设计/ACGN设计/你什么意思.webp
   - src: /images/三国杀设计/ACGN设计/芭芭拉.webp

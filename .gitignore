@@ -29,3 +29,6 @@ public/atom.xml
 
 # valaxy fuse
 public/valaxy-fuse-list.json
+
+# webpize
+scripts/webp.intput.txt

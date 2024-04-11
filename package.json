@@ -24,11 +24,13 @@
     "@zinkawaii/stylelint-config": "^0.0.1",
     "eslint": "^8.57.0",
     "eslint-plugin-vue": "^9.22.0",
+    "fs-extra": "^11.2.0",
     "stylelint": "^16.2.1",
     "stylelint-config-html": "^1.1.0",
     "stylelint-config-standard-scss": "^13.0.0",
     "stylelint-order": "^6.0.4",
     "typescript": "^5.4.2",
-    "vue-eslint-parser": "^9.4.2"
+    "vue-eslint-parser": "^9.4.2",
+    "webp-converter": "^2.3.3"
   }
 }

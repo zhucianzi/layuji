@@ -31,4 +31,5 @@ public/atom.xml
 public/valaxy-fuse-list.json
 
 # webpize
-scripts/webp.intput.txt
+scripts/webp/input
+scripts/webp/output

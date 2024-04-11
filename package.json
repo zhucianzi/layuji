@@ -9,7 +9,8 @@
     "build:ssg": "valaxy build --ssg",
     "dev": "valaxy",
     "rss": "valaxy rss",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "task:webp": "cd scripts/webp && nodemon"
   },
   "dependencies": {
     "valaxy": "0.18.5",
@@ -19,6 +20,7 @@
   "devDependencies": {
     "@stylistic/eslint-plugin": "^1.6.3",
     "@stylistic/stylelint-plugin": "^2.1.0",
+    "@types/fs-extra": "^11.0.4",
     "@typescript-eslint/parser": "^7.1.1",
     "@zinkawaii/eslint-config": "^0.0.2",
     "@zinkawaii/stylelint-config": "^0.0.1",

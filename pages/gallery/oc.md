@@ -26,6 +26,7 @@ photos:
   - src: /images/oc/女仆自设简稿.webp
   - src: /images/oc/台阶啤酒美少女.webp
   - src: /images/oc/小巷里喝酒的澪希-亮.webp
+  - src: /images/oc/小巷里喝酒的澪希-暗.webp
   - src: /images/oc/地雷澪希表情包-发育中.webp
   - src: /images/oc/地雷澪希表情包-发育OK.webp
   - src: /images/oc/地雷系神诗-照片卡.webp
@@ -37,7 +38,7 @@ photos:
   - src: /images/oc/l2d澪希黑色阴暗文静版二期初稿.webp
   - src: /images/oc/l2d澪希终稿.webp
   - src: /images/oc/神诗礼服服设.webp
-  - src: /images/oc/神诗冬服服设.webp
+  - src: /images/oc/澪希冬服服设.webp
   - src: /images/oc/古仁人神诗.webp
   - src: /images/oc/联机做梦.webp
   - src: /images/oc/神诗的黑丝.webp
@@ -47,6 +48,7 @@ photos:
   - src: /images/oc/女仆装神诗.webp
   - src: /images/oc/神诗粉色亚系头像.webp
   - src: /images/oc/澪希乏力贴纸.webp
+  - src: /images/oc/流铅澪希贴纸.webp
   - src: /images/oc/粉亚神诗QQ人.webp
   - src: /images/oc/廉价校服拖鞋澪希.webp
   - src: /images/oc/趴着玩手机澪希.webp
@@ -79,4 +81,11 @@ photos:
   - src: /images/oc/男娘澪希卖身-单色版.webp
   - src: /images/oc/像素地雷神诗.webp
   - src: /images/oc/像素地雷神诗配框.webp
+  - src: /images/oc/神诗男娘版-1.webp
+  - src: /images/oc/神诗男娘版-2.webp
+  - src: /images/oc/神诗男娘版-3.webp
+  - src: /images/oc/澪希试穿卫衣.webp
+  - src: /images/oc/澪希试穿卫衣-背景版.webp
 ---
+
+

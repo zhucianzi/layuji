@@ -1,31 +1,20 @@
-import stylistic from "@stylistic/eslint-plugin";
-import vueParser from "vue-eslint-parser";
-import vuePlugin from "eslint-plugin-vue";
+import antfu from "@antfu/eslint-config";
 import zin from "@zinkawaii/eslint-config";
 
-export default [
-    {
-        files: [
-            "**/*.{js,ts,vue}"
-        ],
-        ignores: [
-            ".valaxy/**/*"
-        ],
-        languageOptions: {
-            parser: vueParser,
-            parserOptions: {
-                parser: "@typescript-eslint/parser"
-            }
-        },
-        plugins: {
-            vue: vuePlugin,
-            stylistic: stylistic
-        },
-        rules: {
-            ...zin.stylistic,
-            ...zin.vue,
-            ...zin.recommended,
-            ...zin.standard
-        }
+export default antfu({
+    jsonc: false,
+    markdown: false,
+    yaml: false,
+    stylistic: {
+        quotes: "double",
+        semi: true,
+        indent: 4
+    },
+    rules: {
+        ...zin.standard,
+        ...zin.recommended,
+        ...zin.stylistic,
+        ...zin.vue,
+        ...zin.patch
     }
-];
+});

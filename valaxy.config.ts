@@ -1,6 +1,7 @@
 import { defineValaxyConfig } from "valaxy";
 import type { UserThemeConfig } from "valaxy-theme-yun";
 import { addonLightGallery } from "valaxy-addon-lightgallery";
+import { addonPermalink } from "valaxy-addon-permalink";
 
 const safelist = [
   "i-ri-home-line"
@@ -42,7 +43,8 @@ export default defineValaxyConfig<UserThemeConfig>({
     }
   },
   addons: [
-    addonLightGallery()
+    addonLightGallery(),
+    addonPermalink()
   ],
   unocss: { safelist }
 });

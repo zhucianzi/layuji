@@ -86,6 +86,9 @@ photos:
   - src: /images/oc/神诗男娘版-3.webp
   - src: /images/oc/澪希试穿卫衣.webp
   - src: /images/oc/澪希试穿卫衣-背景版.webp
+  - src: /images/oc/合照.webp
+  - src: /images/oc/合照-栓绳.webp
+  - src: /images/oc/夏天空调房两人.webp
 ---
 
 

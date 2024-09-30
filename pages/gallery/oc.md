@@ -89,6 +89,10 @@ photos:
   - src: /images/oc/合照.webp
   - src: /images/oc/合照-栓绳.webp
   - src: /images/oc/夏天空调房两人.webp
+  - src: /images/oc/在闲聊草稿.webp
+  - src: /images/oc/在闲聊.webp
+  - src: /images/oc/神诗新人设三选一选好了.webp
+  - src: /images/oc/神诗新人设三选一.webp
 ---
 
 

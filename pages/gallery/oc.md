@@ -95,7 +95,15 @@ photos:
   - src: /images/oc/神诗新人设三选一.webp
   - src: /images/oc/冥币打牌-亮.webp
   - src: /images/oc/冥币打牌-暗.webp
-
+  - src: /images/oc/铝铜太极图线稿.webp
+  - src: /images/oc/蛇捆绑立绘（裸足）.webp
+  - src: /images/oc/蛇捆绑立绘草览.webp
+  - src: /images/oc/蛇捆绑立绘弃案.webp
+  - src: /images/oc/坏苹果神诗.webp
+  - src: /images/oc/坏苹果神诗草稿头像.webp
+  - src: /images/oc/坏苹果神诗眼镜稿.webp
+  - src: /images/oc/铝铜太极图.webp
+  - src: /images/oc/铝铜太极图色块.webp
 ---
 
 

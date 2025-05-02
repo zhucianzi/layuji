@@ -53,6 +53,10 @@ albums:
     cover: /images/三国杀设计/二四年第三季度设计/竹芊子水印.webp
     caption: 二四年第三季度
     desc: 嘭嘭嘭！
+  - url: /gallery/sanguosha/二四年第四季度
+    cover: /images/三国杀设计/二四年第二季度设计/竹芊子水印.webp
+    caption: 二四年第四季度
+    desc: 好累x
   - url: /gallery/sanguosha/白帝猿啼
     cover: /images/三国杀设计/白帝猿啼设计/白帝城.webp
     caption: 白帝猿啼

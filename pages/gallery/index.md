@@ -61,6 +61,10 @@ albums:
     cover: /images/三国杀设计/竹芊子水印.webp
     caption: 二五年上半年
     desc: 有在做了
+  - url: /gallery/sanguosha/二五年下半年
+    cover: /images/三国杀设计/竹芊子水印.webp
+    caption: 二五年下半年
+    desc: 越来越少
   - url: /gallery/sanguosha/白帝猿啼
     cover: /images/三国杀设计/白帝猿啼设计/白帝城.webp
     caption: 白帝猿啼

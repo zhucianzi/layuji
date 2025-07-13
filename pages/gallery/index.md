@@ -43,7 +43,7 @@ albums:
     desc: 原来我是可以继续创作的
   - url: /gallery/sanguosha/二四年第一季度
     cover: /images/三国杀设计/竹芊子水印.webp
-    caption: 二四年第一季度
+    caption: 二四年第一季度（小圆很可爱）
     desc: 原来我是可以继续创作的
   - url: /gallery/sanguosha/二四年第二季度
     cover: /images/三国杀设计/竹芊子水印.webp

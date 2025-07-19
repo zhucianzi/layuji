@@ -2,9 +2,9 @@
 layout: albums
 title: 图集
 albums:
-  - url: /gallery/oc
-    caption: 原创角色形象集
-    cover: /images/oc/止血誓约.webp
+  # - url: /gallery/oc
+  #   caption: 原创角色形象集
+  #   cover: /images/oc/止血誓约.webp
   - url: /gallery/sanguosha/汐芊稽包
     cover: /images/三国杀设计/汐芊稽包设计/汐芊标识.webp
     caption: 汐芊稽包

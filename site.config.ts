@@ -9,7 +9,7 @@ export default defineSiteConfig({
         avatar: "/images/meidoavatar.jpg"
     },
     subtitle: "感谢小圆的赞助支持！",
-    description: "叽里咕噜嘎嘎嘎嘎嘎",
+    description: "可以在这个网站服用灵感菇",
     favicon: "/images/favicon.png",
     social: [
         {

@@ -17,6 +17,10 @@ export default defineValaxyConfig<UserThemeConfig>({
                 enable: true
             }
         },
+        // @ts-expect-error
+        say: {
+            enable: false
+        },
         pages: [
             {
                 name: "圆很好",

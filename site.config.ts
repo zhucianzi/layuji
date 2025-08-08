@@ -8,7 +8,8 @@ export default defineSiteConfig({
         name: "竹芊子",
         avatar: "/images/meidoavatar.jpg"
     },
-    description: "",
+    subtitle: "感谢小圆的赞助支持！",
+    description: "叽里咕噜嘎嘎嘎嘎嘎",
     favicon: "/images/favicon.png",
     social: [
         {

@@ -19,7 +19,7 @@ export default defineValaxyConfig<UserThemeConfig>({
         },
         pages: [
             {
-                name: "图集",
+                name: "圆很好",
                 url: "/gallery/",
                 icon: "i-ri-folder-image-line",
                 color: "hotpink"

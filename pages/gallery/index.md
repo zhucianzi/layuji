@@ -1,6 +1,6 @@
 ---
 layout: albums
-title: 图集
+title: 圆很好
 albums:
   # - url: /gallery/oc
   #   caption: 原创角色形象集

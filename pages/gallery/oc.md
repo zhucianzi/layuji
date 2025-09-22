@@ -105,6 +105,8 @@ photos:
   - src: /images/oc/铝铜太极图.webp
   - src: /images/oc/铝铜太极图色块.webp
   - src: /images/oc/阡伊铅笔绘澪希.webp
+  - src: /images/oc/烧玉茜草稿一.jpg
+  - src: /images/oc/烧玉茜草稿二.jpg
 ---
 
 
